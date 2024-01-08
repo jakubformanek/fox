@@ -1,0 +1,19 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAACACAAAAACAiIgIiIgIAAiLxAiIiIgAgIhECIiIiIgAiIgIiIiIiACIiIiIiIgAgIvEiIiIiAAIiESIiIiIiICIiIiIiIiIAICIiIiIiAAAAAAAAACAAAAAAIiIiIgAAACAiIiIiAAAAACIiIgIAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myFox"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "YzgwMDEwMDAxMDAwMDEwMDMzMDAwMDAwMDAwMDAwMzAzMDAwMDAwMDAwMDAwMDMzMzAwMzAwMDAwMDAwMzAwMDAwMDMwMDAwMDAwMDMwMDAwMDMwMDAwMDAwMDAwMzAwMDAwMDAzMDAwMDMwMDAwMDAwMDAzMDAwMDAwMzAwMDAwMDAwMzAwMzMwMDAwMDAwMDAwMDAwMDMwMzAwMDAwMDAwMDAwMDMwMDMwMDAwMDAwMDAwMDAzMzMzMDAwMDAwMDAwMDMwMDMzMDAzMDAwMDAwMDAzMzAwMDAzMzAwMDAwMDAwMDMwMDAwMzAwMzAwMDAzMDAwMDAwMDAwMzMwMzMzMzMwMDAwMDAwMDAwMzM=",
+        "displayName": "myAnim"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
