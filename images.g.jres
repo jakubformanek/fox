@@ -8,12 +8,12 @@
         "namespace": "myAnimations",
         "id": "anim1",
         "mimeType": "application/mkcd-animation",
-        "data": "YzgwMDEwMDAxMDAwMDEwMDMzMDAwMDAwMDAwMDAwMzAzMDAwMDAwMDAwMDAwMDMzMzAwMzAwMDAwMDAwMzAwMDAwMDMwMDAwMDAwMDMwMDAwMDMwMDAwMDAwMDAwMzAwMDAwMDAzMDAwMDMwMDAwMDAwMDAzMDAwMDAwMzAwMDAwMDAwMzAwMzMwMDAwMDAwMDAwMDAwMDMwMzAwMDAwMDAwMDAwMDMwMDMwMDAwMDAwMDAwMDAzMzMzMDAwMDAwMDAwMDMwMDMzMDAzMDAwMDAwMDAzMzAwMDAzMzAwMDAwMDAwMDMwMDAwMzAwMzAwMDAzMDAwMDAwMDAwMzMwMzMzMzMwMDAwMDAwMDAwMzM=",
+        "data": "hwQQABAAAAAAACACAAAAACAiIgIiIgIAAiLxAiIiIgAgIhECIiIiIgAiIgIiIiIiACIiIiIiIgAgIvEiIiIiAAIiESIiIiIiICIiIiIiIiIAICIiIiIiAAAAAAAAACAAAAAAIiIiIgAAACAiIiIiAAAAACIiIgIAAAAAAAAAAAAAAAAAAAAAAA==",
         "displayName": "myAnim"
     },
     "*": {
+        "data": "hwQQABAAAAAAACACAAAAACAiIgIiIgIAAiLxAiIiIgAgIhECIiIiIgAiIgIiIiIiACIiIiIiIgAgIvEiIiIiAAIiESIiIiIiICIiIiIiIiIAICIiIiIiAAAAAAAAACAAAAAAIiIiIgAAACAiIiIiAAAAACIiIgIAAAAAAAAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
-        "dataEncoding": "base64",
         "namespace": "myImages"
     }
 }
